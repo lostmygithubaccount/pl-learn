@@ -1,0 +1,10 @@
+ipython
+torch
+torchvision
+pytorch-lightning
+pandas
+numpy
+matplotlib
+dask
+distributed
+lightgbm
