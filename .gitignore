@@ -1,2 +1,5 @@
 # dask/distributed
 **dask-worker-space**
+
+# pytorch lightning
+**lightning_logs**
