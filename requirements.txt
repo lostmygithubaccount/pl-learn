@@ -12,4 +12,5 @@ distributed
 adlfs
 scikit-learn
 lightgbm
-black
+black==19.010b
+black-nb
