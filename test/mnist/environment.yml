@@ -1,0 +1,20 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - azureml-core
+    - azureml-mlflow
+    - numpy
+    - pandas
+    - scikit-learn
+    - dask==2.30.0 
+    - distributed==2.30.0
+    - adlfs
+    - fastparquet
+    - torch==1.7.0
+    - torchvision==0.7.0
+    - pytorch-lightning
+    - mpi4py
+    - dask-mpi

@@ -4,3 +4,6 @@
 # pytorch lightning
 **lightning_logs**
 
+# azureml
+**.azureml**
+.amlignore
